@@ -1,4 +1,4 @@
-JSF_Spring-boot
+JSF, JPA with @Any Spring-boot
 ===============
 
-JSF with spring boot - running via fat-jar
+Java 8, JSF, JPA with @Any Spring-boot can be running via fat-jar
